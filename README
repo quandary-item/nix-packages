@@ -1,0 +1,11 @@
+nix-packages
+
+An attempt to build the devkitArm toolchain for making Nintendo DS (etc) homebrew.
+
+- [x] devkitarm-rules
+- [x] devkitarm-crtls
+- [x] grit
+- [ ] libnds - not yet ;_;
+
+possibly useful link - an arch linux package:
+https://aur.archlinux.org/packages/devkitarm/
